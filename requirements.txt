@@ -1,0 +1,11 @@
+# Core Web Framework
+Django
+
+# Machine Learning and Image Processing
+torch
+torchvision
+timm
+facenet-pytorch
+opencv-python
+numpy
+Pillow
