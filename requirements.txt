@@ -1,11 +1,14 @@
-# Core Web Framework
-Django
-
-# Machine Learning and Image Processing
+# Core ML Framework
 torch
 torchvision
 timm
+
+# Face Detection & Image Processing
 facenet-pytorch
 opencv-python
-numpy
 Pillow
+numpy
+
+# Metrics and Utilities
+scikit-learn
+tqdm
